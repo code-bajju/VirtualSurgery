@@ -5,15 +5,15 @@
 
 | Step 1 | Step 2 |
 |---------|---------|
-| <img src="https://github.com/code-bajju/VirtualSurgery/blob/main/1.png?raw=true" width="300" height="300"> | <img src="https://github.com/code-bajju/VirtualSurgery/blob/main/3.png?raw=true" width="300" height="300"> |
+| <img src="https://github.com/code-bajju/VirtualSurgery/blob/main/1.png?raw=true" width="450" height="300"> | <img src="https://github.com/code-bajju/VirtualSurgery/blob/main/3.png?raw=true" width="450" height="300"> |
 
 | Step 3 | Step 4 |
 |---------|---------|
-| <img src="https://github.com/code-bajju/VirtualSurgery/blob/main/4.jpeg?raw=true" width="300" height="300"> | <img src="https://github.com/code-bajju/VirtualSurgery/blob/main/4.png?raw=true" width="300" height="300"> |
+| <img src="https://github.com/code-bajju/VirtualSurgery/blob/main/4.jpeg?raw=true" width="450" height="300"> | <img src="https://github.com/code-bajju/VirtualSurgery/blob/main/4.png?raw=true" width="450" height="300"> |
 
 | Step 5 | Step 6 |
 |---------|---------|
-| <img src="https://github.com/code-bajju/VirtualSurgery/blob/main/5.png?raw=true" width="300" height="300"> | <img src="https://github.com/code-bajju/VirtualSurgery/blob/main/6.jpeg?raw=true" width="300" height="300"> |
+| <img src="https://github.com/code-bajju/VirtualSurgery/blob/main/5.png?raw=true" width="450" height="300"> | <img src="https://github.com/code-bajju/VirtualSurgery/blob/main/6.jpeg?raw=true" width="450" height="300"> |
 
 ## Installation
 
@@ -45,6 +45,3 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
-Make sure to replace placeholders (`https://github.com/code-bajju/VirtualSurgery/blob/main/X.png` and `https://github.com/code-bajju/VirtualSurgery.git`) with the actual URLs and repository link relevant to your project. This will ensure your README.md provides clear and accurate information about your VR simulations for medical education.
