@@ -1,4 +1,4 @@
-
+Simulation comes into play in a number of domains and produces powerful educational interventions that produce immediate and lasting results. To teach the complex subjects we need virtual reality simulations that allow the students to learn topics like Medical- surgical and para surgical procedures with the help of the "Learning by Doing" approach.
 
 
 ## Table of Simulations
